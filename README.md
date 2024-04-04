@@ -1,6 +1,6 @@
 # Konular
 ---
-## [Html](html:)
+## [Html](#html:)
 ## [Css](#css:)
 ## Bootstrap
 --- 
