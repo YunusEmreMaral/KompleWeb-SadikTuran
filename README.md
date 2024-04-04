@@ -119,7 +119,7 @@ CSS, HTML'den sonra web tasarımı ve geliştirmenin en önemli dillerinden biri
 - Position (Konum): Bir öğenin belirli bir konumda yer almasını belirlemek için kullanılır. Özellikler arasında static, relative, absolute, fixed, sticky yer alır.
 - Transform (Dönüşüm): Bir öğenin boyutunu, şeklini veya konumunu değiştirmek için kullanılır. Özellikler arasında translate, rotate, scale yer alır.
 - Sticky Position (Yapışkan Konum): Relative gibi davranır, ancak aşağı kaydırıldığında sabitlenir ve ekrandan kaybolmaz, tekrar yukarı kaydırıldığında normal davranışına döner.
-- Icon Ekleme: Font Awesome gibi kütüphanelerden icon eklemek için <i> etiketi kullanılır. Örneğin: <i class="fas fa-home"></i>.
+- Icon Ekleme: Font Awesome gibi kütüphanelerden icon eklemek için i etiketi kullanılır. Örneğin: <i class="fas fa-home"></i>.
 - Background Opacity (Arka Plan Saydamlığı): Background renginin saydamlığını ayarlamak için opacity özelliği kullanılır. Örneğin: background-color: rgba(255, 0, 0, 0.5); (0 ile 1 arasında bir değer).
 - Background Gradients (Arka Plan Gradyanları): CSS ile arka plana gradyanlar (geçişler) eklemek için linear-gradient, radial-gradient, conic-gradient gibi fonksiyonlar kullanılır.
 - Background Image (Arka Plan Resmi): Bir öğenin arka planına resim eklemek için background-image özelliği kullanılır.
