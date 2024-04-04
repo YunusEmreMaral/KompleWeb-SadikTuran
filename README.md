@@ -32,46 +32,46 @@ Tablolar: Verileri tablolar halinde düzenlemek için kullanılır.
 HTML, web tasarımı ve geliştirmenin temelini oluşturan bir dildir. Web sitesi oluşturmak veya web geliştirmeye başlamak için HTML öğrenmek önemlidir.
 
 ### Html Etiketleri
-html: Bir HTML belgesinin başlangıcını ve sonunu belirtir.
-head: Belgenin başlık, meta bilgileri ve stil dosyaları gibi sayfa bilgilerini içerir.
-title: Tarayıcı penceresinde görüntülenen belge başlığını belirtir.
-meta: Belge hakkında meta bilgileri ekler, örneğin karakter kodlaması, açıklama, anahtar kelimeler vb.
-body: Belge içeriğini içerir.
-h1, h2, ..., h6: Başlık düzeylerini belirtir, h1 en önemli başlığı temsil eder.
-p: Paragrafı belirtir.
-a: Bağlantı oluşturur.
-img: Görseli belirtir.
-ul: Sırasız liste oluşturur.
-ol: Sıralı liste oluşturur.
-li: Listelerdeki her öğeyi belirtir.
-div: Bir bölümü belirtir, genellikle CSS ile stil vermek için kullanılır.
-span: Bir metin alanını belirtir, genellikle CSS ile stil vermek için kullanılır.
-table: Tabloyu belirtir.
-tr: Bir tablo satırını belirtir.
-th: Bir tablo başlığını belirtir.
-td: Bir tablo hücresini belirtir.
-form: Bir formu belirtir.
-input: Form içinde kullanıcıdan bilgi almak için kullanılır.
-button: Bir düğmeyi belirtir.
-label: Bir form öğesinin etiketini belirtir.
-textarea: Çok satırlı bir metin alanı belirtir.
-select: Bir açılır liste (dropdown) belirtir.
-iframe: Başka bir web sayfasını veya içeriğini içeren bir çerçeve belirtir.
-header: Bir belgenin veya bölümün başlığını tanımlar. Genellikle bir sayfanın başlığı, logo, menü vb. gibi içeriği içerir.
-footer: Bir belgenin veya bölümün altını tanımlar. Genellikle iletişim bilgileri, telif hakkı bildirimi vb. içerir.
-nav: Sayfanın gezinme bağlantılarını içerir. Menüler genellikle bu etiketin içinde yer alır.
-article: Bir belge içinde bağımsız bir içeriği tanımlar. Haberler, blog yazıları gibi.
-section: Bir belgenin bölümlerini belirtir. Genellikle bir bölümün veya bir konunun içeriğini gruplamak için kullanılır.
-aside: Sayfa içeriğiyle ilgili, ancak ana içeriğin dışında olan içerikleri belirtir. Genellikle reklamlar, yan çubuklar vb. içerir.
-figure: Bir resim, diyagram, fotoğraf vb. ile ilgili içeriği belirtir.
-figcaption: figure etiketi içindeki içeriğin başlığını tanımlar.
-video: Bir video içeriğini belirtir.
-audio: Bir ses içeriğini belirtir.
-time: Belirli bir tarih veya saat bilgisini belirtir.
-address: Bir belge veya bölüm için iletişim bilgilerini belirtir.
-abbr: Bir kısaltmanın veya kısaltmanın açıklamasını belirtir.
-cite: Alıntı yapılan bir kaynağın ismini belirtir.
-blockquote: Bir alıntı bloğunu belirtir.
+- html: Bir HTML belgesinin başlangıcını ve sonunu belirtir.
+- head: Belgenin başlık, meta bilgileri ve stil dosyaları gibi sayfa bilgilerini içerir.
+- title: Tarayıcı penceresinde görüntülenen belge başlığını belirtir.
+- meta: Belge hakkında meta bilgileri ekler, örneğin karakter kodlaması, açıklama, anahtar kelimeler vb.
+- body: Belge içeriğini içerir.
+- h1, h2, ..., h6: Başlık düzeylerini belirtir, h1 en önemli başlığı temsil eder.
+- p: Paragrafı belirtir.
+- a: Bağlantı oluşturur.
+- img: Görseli belirtir.
+- ul: Sırasız liste oluşturur.
+- ol: Sıralı liste oluşturur.
+- li: Listelerdeki her öğeyi belirtir.
+- div: Bir bölümü belirtir, genellikle CSS ile stil vermek için kullanılır.
+- span: Bir metin alanını belirtir, genellikle CSS ile stil vermek için kullanılır.
+- table: Tabloyu belirtir.
+- tr: Bir tablo satırını belirtir.
+- th: Bir tablo başlığını belirtir.
+- td: Bir tablo hücresini belirtir.
+- form: Bir formu belirtir.
+- input: Form içinde kullanıcıdan bilgi almak için kullanılır.
+- button: Bir düğmeyi belirtir.
+- label: Bir form öğesinin etiketini belirtir.
+- textarea: Çok satırlı bir metin alanı belirtir.
+- select: Bir açılır liste (dropdown) belirtir.
+- iframe: Başka bir web sayfasını veya içeriğini içeren bir çerçeve belirtir.
+- header: Bir belgenin veya bölümün başlığını tanımlar. Genellikle bir sayfanın başlığı, logo, menü vb. gibi içeriği içerir.
+- footer: Bir belgenin veya bölümün altını tanımlar. Genellikle iletişim bilgileri, telif hakkı bildirimi vb. içerir.
+- nav: Sayfanın gezinme bağlantılarını içerir. Menüler genellikle bu etiketin içinde yer alır.
+- article: Bir belge içinde bağımsız bir içeriği tanımlar. Haberler, blog yazıları gibi.
+- section: Bir belgenin bölümlerini belirtir. Genellikle bir bölümün veya bir konunun içeriğini gruplamak için kullanılır.
+- aside: Sayfa içeriğiyle ilgili, ancak ana içeriğin dışında olan içerikleri belirtir. Genellikle reklamlar, yan çubuklar vb. içerir.
+- figure: Bir resim, diyagram, fotoğraf vb. ile ilgili içeriği belirtir.
+- figcaption: figure etiketi içindeki içeriğin başlığını tanımlar.
+- video: Bir video içeriğini belirtir.
+- audio: Bir ses içeriğini belirtir.
+- time: Belirli bir tarih veya saat bilgisini belirtir.
+- address: Bir belge veya bölüm için iletişim bilgilerini belirtir.
+- abbr: Bir kısaltmanın veya kısaltmanın açıklamasını belirtir.
+- cite: Alıntı yapılan bir kaynağın ismini belirtir.
+- blockquote: Bir alıntı bloğunu belirtir.
 
 
 
