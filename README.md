@@ -97,48 +97,41 @@ CSS'i Öğrenmek:
 
 CSS, HTML'den sonra web tasarımı ve geliştirmenin en önemli dillerinden biridir. CSS'i öğrenmek, web sayfalarınızın görsel tasarımını kontrol etmenize ve daha etkileyici web siteleri oluşturmanıza olanak tanır.
 
-CSS'i öğrenmek için:
-
-Çevrimiçi kurslar ve eğitimler alabilirsiniz.
-Kitaplar ve makaleler okuyabilirsiniz.
-Çevrimiçi örneklerden ve kodlardan faydalanabilirsiniz.
-Pratik yaparak ve deneyerek öğrenebilirsiniz.
-CSS'i öğrenmek, web tasarımı ve geliştirme becerilerinizi geliştirmek için harika bir yoldur.
 ### Css Kodları ve Konuları
 ---
-Selector (Seçici): HTML öğelerini hedeflemek için kullanılan tanımlayıcılar. Özellikle öğe türü, sınıf, ID veya diğer özelliklere göre öğeleri seçmek için kullanılır.
-Property (Özellik): Belirli bir CSS öğesinin stilini belirleyen özellikler. Örnekler: color, font-size, background-color.
-Value (Değer): Bir özelliğin alabileceği farklı değerler. Örnekler: hex renk kodları, piksel, em, yüzde.
-Inline CSS (İç İçe CSS): HTML etiketinin içine yazılan CSS kodları.
-Internal CSS (İç CSS): HTML dosyasının <style> etiketi içine yazılan CSS kodları.
-External CSS (Harici CSS): CSS kodlarının ayrı bir dosyada (style.css gibi) saklandığı ve HTML dosyasına bağlandığı yöntem.
-Öncelik Sırası: Belirli bir öğenin birden fazla CSS kuralı varsa, öncelik sırası, son tanımlananın öncekileri geçersiz kılmasıdır (ID > sınıf > etiket > default).
-Box Model (Kutu Modeli): CSS'de her HTML öğesinin içeriği, kenar boşlukları (margin), dolgu (padding) ve kenarlık (border) olmak üzere dört bileşeni vardır.
-Display (Görüntüleme): Bir HTML öğesinin nasıl göründüğünü belirler. Örnekler: block, inline, inline-block.
-Pseudo Class (Yapay Sınıf): Belirli durumlar altında bir HTML öğesinin nasıl görüneceğini tanımlamak için kullanılan seçiciler. Örnekler: :hover, :active.
-Pseudo Elements (Yapay Öğeler): HTML öğelerinin belirli bir kısmına stillendirme uygulamak için kullanılan seçiciler. Örnekler: ::before, ::after.
-Transition (Geçiş): Belirli bir özelliğin belirli bir sürede nasıl değişeceğini tanımlayan CSS özelliği.
-Float (Yüzer): HTML öğelerini sayfa üzerinde sağa veya sola yüzmek için kullanılan bir CSS özelliği.
-Clearfix: Float özelliği uygulanan öğeleri temizlemek için kullanılan bir teknik.
-Box Shadow (Kutu Gölgeliği): Bir öğenin kenarlarına gölge efekti eklemek için kullanılan bir CSS özelliği.
-Font Family (Yazı Ailesi): Bir öğenin metin içeriği için kullanılacak yazı tipi ailesini belirlemek için kullanılır.
-Background (Arka Plan): Bir öğenin arka planını stilize etmek için kullanılır. Özellikler arasında background-color, background-image yer alır.
-Position (Konum): Bir öğenin belirli bir konumda yer almasını belirlemek için kullanılır. Özellikler arasında static, relative, absolute, fixed, sticky yer alır.
-Transform (Dönüşüm): Bir öğenin boyutunu, şeklini veya konumunu değiştirmek için kullanılır. Özellikler arasında translate, rotate, scale yer alır.
-Sticky Position (Yapışkan Konum): Relative gibi davranır, ancak aşağı kaydırıldığında sabitlenir ve ekrandan kaybolmaz, tekrar yukarı kaydırıldığında normal davranışına döner.
-Icon Ekleme: Font Awesome gibi kütüphanelerden icon eklemek için <i> etiketi kullanılır. Örneğin: <i class="fas fa-home"></i>.
-Background Opacity (Arka Plan Saydamlığı): Background renginin saydamlığını ayarlamak için opacity özelliği kullanılır. Örneğin: background-color: rgba(255, 0, 0, 0.5); (0 ile 1 arasında bir değer).
-Background Gradients (Arka Plan Gradyanları): CSS ile arka plana gradyanlar (geçişler) eklemek için linear-gradient, radial-gradient, conic-gradient gibi fonksiyonlar kullanılır.
-Background Image (Arka Plan Resmi): Bir öğenin arka planına resim eklemek için background-image özelliği kullanılır.
-Clip-path (Kırpma Yolu): Bir öğenin şeklini kırpma yolu belirleyerek değiştirmek için kullanılır. Örneğin: clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);.
-Attribute Selector (Özellik Seçici): HTML öğelerini belirli özelliklere göre seçmek için kullanılır. Örneğin: [title], [class^="active"], [data-target="menu"].
-Responsive Tasarım (Duyarlı Tasarım): Farklı cihaz ve ekran boyutlarına uyum sağlayacak şekilde tasarım yapmak için media queries kullanılır.
-Flexbox: CSS'de yer alan bir layout modelidir ve elemanların dizilimini kontrol etmek için kullanılır. Örnek özellikler: display: flex, flex-direction, justify-content, align-items, flex-grow, flex-basis, order.
-CSS Degişken Tanımlama (CSS Variables): Değişkenler CSS'de tanımlanabilir ve tekrar kullanılabilir. Örnek: :root { --primary-color: #ff0000; }.
-Media Queries (Ortam Sorguları): Farklı cihazlara uyumlu tasarımlar oluşturmak için kullanılır. Ekran genişliği, cihaz türü gibi faktörlere göre stillendirme yapmayı sağlar.
-Font Awesome Icons: Proje ve web sitelerinde ikonları kolayca kullanmak için Font Awesome gibi ikon kütüphaneleri tercih edilebilir.
-CSS Grid : Layout oluşturmak için kullanılan güçlü bir CSS özelliğidir. Özelleştirilmiş satır ve sütunlar oluşturarak içerikleri yerleştirmeye izin verir.
-Css Animation : Css animate kütüphanesini   kullanabilirsin derin bir konu arastır ...
+- Selector (Seçici): HTML öğelerini hedeflemek için kullanılan tanımlayıcılar. Özellikle öğe türü, sınıf, ID veya diğer özelliklere göre öğeleri seçmek için kullanılır.
+- Property (Özellik): Belirli bir CSS öğesinin stilini belirleyen özellikler. Örnekler: color, font-size, background-color.
+- Value (Değer): Bir özelliğin alabileceği farklı değerler. Örnekler: hex renk kodları, piksel, em, yüzde.
+- Inline CSS (İç İçe CSS): HTML etiketinin içine yazılan CSS kodları.
+- Internal CSS (İç CSS): HTML dosyasının <style> etiketi içine yazılan CSS kodları.
+- External CSS (Harici CSS): CSS kodlarının ayrı bir dosyada (style.css gibi) saklandığı ve HTML dosyasına bağlandığı yöntem.
+- Öncelik Sırası: Belirli bir öğenin birden fazla CSS kuralı varsa, öncelik sırası, son tanımlananın öncekileri geçersiz kılmasıdır (ID > sınıf > etiket > default).
+- Box Model (Kutu Modeli): CSS'de her HTML öğesinin içeriği, kenar boşlukları (margin), dolgu (padding) ve kenarlık (border) olmak üzere dört bileşeni vardır.
+- Display (Görüntüleme): Bir HTML öğesinin nasıl göründüğünü belirler. Örnekler: block, inline, inline-block.
+- Pseudo Class (Yapay Sınıf): Belirli durumlar altında bir HTML öğesinin nasıl görüneceğini tanımlamak için kullanılan seçiciler. Örnekler: :hover, :active.
+- Pseudo Elements (Yapay Öğeler): HTML öğelerinin belirli bir kısmına stillendirme uygulamak için kullanılan seçiciler. Örnekler: ::before, ::after.
+- Transition (Geçiş): Belirli bir özelliğin belirli bir sürede nasıl değişeceğini tanımlayan CSS özelliği.
+- Float (Yüzer): HTML öğelerini sayfa üzerinde sağa veya sola yüzmek için kullanılan bir CSS özelliği.
+- Clearfix: Float özelliği uygulanan öğeleri temizlemek için kullanılan bir teknik.
+- Box Shadow (Kutu Gölgeliği): Bir öğenin kenarlarına gölge efekti eklemek için kullanılan bir CSS özelliği.
+- Font Family (Yazı Ailesi): Bir öğenin metin içeriği için kullanılacak yazı tipi ailesini belirlemek için kullanılır.
+- Background (Arka Plan): Bir öğenin arka planını stilize etmek için kullanılır. Özellikler arasında background-color, background-image yer alır.
+- Position (Konum): Bir öğenin belirli bir konumda yer almasını belirlemek için kullanılır. Özellikler arasında static, relative, absolute, fixed, sticky yer alır.
+- Transform (Dönüşüm): Bir öğenin boyutunu, şeklini veya konumunu değiştirmek için kullanılır. Özellikler arasında translate, rotate, scale yer alır.
+- Sticky Position (Yapışkan Konum): Relative gibi davranır, ancak aşağı kaydırıldığında sabitlenir ve ekrandan kaybolmaz, tekrar yukarı kaydırıldığında normal davranışına döner.
+- Icon Ekleme: Font Awesome gibi kütüphanelerden icon eklemek için <i> etiketi kullanılır. Örneğin: <i class="fas fa-home"></i>.
+- Background Opacity (Arka Plan Saydamlığı): Background renginin saydamlığını ayarlamak için opacity özelliği kullanılır. Örneğin: background-color: rgba(255, 0, 0, 0.5); (0 ile 1 arasında bir değer).
+- Background Gradients (Arka Plan Gradyanları): CSS ile arka plana gradyanlar (geçişler) eklemek için linear-gradient, radial-gradient, conic-gradient gibi fonksiyonlar kullanılır.
+- Background Image (Arka Plan Resmi): Bir öğenin arka planına resim eklemek için background-image özelliği kullanılır.
+- Clip-path (Kırpma Yolu): Bir öğenin şeklini kırpma yolu belirleyerek değiştirmek için kullanılır. Örneğin: clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);.
+- Attribute Selector (Özellik Seçici): HTML öğelerini belirli özelliklere göre seçmek için kullanılır. Örneğin: [title], [class^="active"], [data-target="menu"].
+- Responsive Tasarım (Duyarlı Tasarım): Farklı cihaz ve ekran boyutlarına uyum sağlayacak şekilde tasarım yapmak için media queries kullanılır.
+- Flexbox: CSS'de yer alan bir layout modelidir ve elemanların dizilimini kontrol etmek için kullanılır. Örnek özellikler: display: flex, flex-direction, justify-content, align-items, flex-grow, flex-basis, order.
+- CSS Degişken Tanımlama (CSS Variables): Değişkenler CSS'de tanımlanabilir ve tekrar kullanılabilir. Örnek: :root { --primary-color: #ff0000; }.
+- Media Queries (Ortam Sorguları): Farklı cihazlara uyumlu tasarımlar oluşturmak için kullanılır. Ekran genişliği, cihaz türü gibi faktörlere göre stillendirme yapmayı sağlar.
+- Font Awesome Icons: Proje ve web sitelerinde ikonları kolayca kullanmak için Font Awesome gibi ikon kütüphaneleri tercih edilebilir.
+- CSS Grid : Layout oluşturmak için kullanılan güçlü bir CSS özelliğidir. Özelleştirilmiş satır ve sütunlar oluşturarak içerikleri yerleştirmeye izin verir.
+- Css Animation : Css animate kütüphanesini   kullanabilirsin derin bir konu arastır ...
 
 
 ## Bootstrap
