@@ -1,7 +1,7 @@
 # Konular
 ---
-## [ Html ](Html)
-## Css
+## [Html](#html)
+## [Css](#css)
 ## Bootstrap
 --- 
 
