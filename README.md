@@ -1,9 +1,9 @@
 # Konular
----
-## [Html](#html-içerik)
-## [Css](#css-içerik)
-## Bootstrap
---- 
+
+### [Html](#html-içerik)
+### [Css](#css-içerik)
+### Bootstrap
+
 
 # Biten Proje Linkleri 
 - https://just-html-movie.netlify.app/   Sadece Html 'den oluşan bir site .
