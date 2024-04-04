@@ -14,7 +14,7 @@
 
 ---
 
-## Html İçerik
+## Html Içerik
 ---
 HTML, Hiper Metin İşaretleme Dili (HyperText Markup Language) kelimelerinin kısaltmasıdır. Web sayfalarının temelini oluşturan ve metin, resim, video gibi içeriklerin nasıl organize edileceğini tanımlayan bir dildir. HTML kodları, tarayıcılar tarafından yorumlanarak web sayfalarının görsel hale getirilmesini sağlar.
 
@@ -75,7 +75,7 @@ HTML, web tasarımı ve geliştirmenin temelini oluşturan bir dildir. Web sites
 
 
 
-## Css İçerik
+## Css Içerik
 ---
 CSS Hakkında Genel Bilgiler
 CSS (Cascading Style Sheets), Basamaklı Stil Sayfaları anlamına gelir. HTML ile oluşturulan web sayfalarının görsel tasarımını ve sunumunu kontrol etmek için kullanılan bir dildir. HTML, web sayfalarının içeriğini tanımlarken, CSS bu içeriğin nasıl görüneceğini belirler.
