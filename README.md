@@ -1,6 +1,6 @@
 # Konular
 ---
-## [Html](#html)
+## [Html](#html html içerik)
 ## [Css](#css)
 ## Bootstrap
 --- 
@@ -14,7 +14,7 @@
 
 ---
 
-## Html
+## Html Içerik
 ---
 HTML, Hiper Metin İşaretleme Dili (HyperText Markup Language) kelimelerinin kısaltmasıdır. Web sayfalarının temelini oluşturan ve metin, resim, video gibi içeriklerin nasıl organize edileceğini tanımlayan bir dildir. HTML kodları, tarayıcılar tarafından yorumlanarak web sayfalarının görsel hale getirilmesini sağlar.
 
