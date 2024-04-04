@@ -7,7 +7,7 @@
 
 # Biten Proje Linkleri 
 - https://just-html-movie.netlify.app/   Sadece Html 'den oluşan bir site .
-- https://movie-app-html-css.netlify.app/ Html ve Css 'den oluşan bir film tanıtım sitesi temel css özellikleri mevcut .
+- https://movie-app-html-css.netlify.app/ Html ve Css 'den oluşan bir film tanıtım sitesi temel css özellikleri mevcut.
 - https://hotel-promotion.netlify.app/ Html ve Css 'den oluşan flex özelligine ağırlık verilmiş bir hotel tanıtım sitesi .
 - https://news-site-grid-publish.netlify.app/ Html ve Css den oluşan grid özelliğine agırlık verilmiş haber sitesi.
 - https://yunus-emre-maral.netlify.app/  Html - Css scss animasyonlar vb  uygulanmış basit freelancer sitesi.
