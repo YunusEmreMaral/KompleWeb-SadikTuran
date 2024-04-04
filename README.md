@@ -32,13 +32,13 @@ Tablolar: Verileri tablolar halinde düzenlemek için kullanılır.
 HTML, web tasarımı ve geliştirmenin temelini oluşturan bir dildir. Web sitesi oluşturmak veya web geliştirmeye başlamak için HTML öğrenmek önemlidir.
 
 ### Html Etiketleri
-<html>: Bir HTML belgesinin başlangıcını ve sonunu belirtir.
+-<html>: Bir HTML belgesinin başlangıcını ve sonunu belirtir.
 <head>: Belgenin başlık, meta bilgileri ve stil dosyaları gibi sayfa bilgilerini içerir.
-<title>: Tarayıcı penceresinde görüntülenen belge başlığını belirtir.
-<meta>: Belge hakkında meta bilgileri ekler, örneğin karakter kodlaması, açıklama, anahtar kelimeler vb.
-<body>: Belge içeriğini içerir.
-<h1>, <h2>, ..., <h6>: Başlık düzeylerini belirtir, h1 en önemli başlığı temsil eder.
-<p>: Paragrafı belirtir.
+-<title>: Tarayıcı penceresinde görüntülenen belge başlığını belirtir.
+-<meta>: Belge hakkında meta bilgileri ekler, örneğin karakter kodlaması, açıklama, anahtar kelimeler vb.
+-<body>: Belge içeriğini içerir.
+-<h1>, <h2>, ..., <h6>: Başlık düzeylerini belirtir, h1 en önemli başlığı temsil eder.
+-<p>: Paragrafı belirtir.
 <a>: Bağlantı oluşturur.
 <img>: Görseli belirtir.
 <ul>: Sırasız liste oluşturur.
