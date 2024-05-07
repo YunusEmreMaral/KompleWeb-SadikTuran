@@ -12,6 +12,9 @@
 - https://news-site-grid-publish.netlify.app/ Html ve Css den oluşan grid özelliğine agırlık verilmiş haber sitesi.
 - https://yunus-emre-maral.netlify.app/  Html - Css scss animasyonlar vb  uygulanmış basit freelancer sitesi.
 - https://dolandirilma.netlify.app/  => Kendi oluşturdugum dolandırıcılıkla mücadele sitesi ...
+- https://awesome-blog-gozluklu.netlify.app/  => Basit frontend blog çalışması .
+- https://e-commerce-parts.netlify.app/  => Sadece birkaç itemden oluşan bir çalışma .
+- https://ecommerce-gozluklu.netlify.app/  => Frontendle oluşturulmuş  ecommerce tasarımı .
 
 ---
 
@@ -136,3 +139,32 @@ CSS, HTML'den sonra web tasarımı ve geliştirmenin en önemli dillerinden biri
 
 
 ## Bootstrap
+Renkler ve Yazı Stilleri
+- text-primary: Yazının rengini değiştirir.
+- btn btn-danger veya btn btn-outline-danger: Butonların rengini belirler.
+- btn-lg: Büyük butonlar oluşturur.
+- btn-block: Butonları satır boyunca genişletir.
+- text-muted: Soluk bir yazı rengi oluşturur.
+- lead: Paragraf okunabilirliğini artırır.
+- text-lowercase: Yazıları küçük harfe dönüştürür.
+- text-uppercase: Yazıları büyük harfe dönüştürür.
+- fs-4: Font büyüklüğünü belirler.
+- fw-bold: Yazının kalınlığını kalın yapar.
+- bg-success: Zemin rengini belirler.
+- shadow: Gölge efekti ekler.
+- rounded-pill: Köşeleri yuvarlatır.
+- badge: Yazıyı rozet şekline dönüştürür.
+- bg-gradient: Geçişli bir arka plan rengi oluşturur.
+- w-25: Satırın %25'ini kaplar.
+- mt-2: Margin top ekler.
+- m, p: Margin ve padding değerlerini belirler.
+- {property}{sides}-size: Margin ve padding değerlerini belirler.
+- Random resimler için uygun sayfalar bulunabilir.
+- Listeler ve tablolar için Bootstrap dokümantasyonuna bakılabilir.
+- active: Bir öğeyi seçili hale getirir.
+- Navbar bileşenleri navbar-expand-md ile genişleyebilir.
+- Collapse ve accordion bileşenleri kullanılabilir.
+- Carousel bileşeni ile döner bir görsel galerisi oluşturulabilir.
+- Modal, dropdown, offcanvas, scrollspy gibi bileşenler kolayca kullanılabilir.
+- Flexbox ile yapılmış bileşenlerde ms-auto gibi margin değerleri kullanılabilir.
+- Formlar, Bootstrap'un kaliteli görünümü ile kullanılabilir.
