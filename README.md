@@ -2,7 +2,8 @@
 
 ### [Html](#html-içerik)
 ### [Css](#css-içerik)
-### Bootstrap
+### [Bootstrap](#bootstrap-içerik)
+
 
 
 # Biten Proje Linkleri 
@@ -138,7 +139,7 @@ CSS, HTML'den sonra web tasarımı ve geliştirmenin en önemli dillerinden biri
 - Css Animation : Css animate kütüphanesini   kullanabilirsin derin bir konu arastır ...
 
 
-## Bootstrap
+## Bootstrap Içerik
 Renkler ve Yazı Stilleri
 - text-primary: Yazının rengini değiştirir.
 - btn btn-danger veya btn btn-outline-danger: Butonların rengini belirler.
