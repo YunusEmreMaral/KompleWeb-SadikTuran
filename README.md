@@ -3,6 +3,7 @@
 ### [Html](#html-içerik)
 ### [Css](#css-içerik)
 ### [Bootstrap](#bootstrap-içerik)
+### [JavaScript](#javascript-içerik)
 
 
 
@@ -169,3 +170,27 @@ Renkler ve Yazı Stilleri
 - Modal, dropdown, offcanvas, scrollspy gibi bileşenler kolayca kullanılabilir.
 - Flexbox ile yapılmış bileşenlerde ms-auto gibi margin değerleri kullanılabilir.
 - Formlar, Bootstrap'un kaliteli görünümü ile kullanılabilir.
+
+## JavaScript Içerik
+- Terminalde node script.js komutu ile JavaScript dosyasını Node.js ile derleyebilirsiniz
+- Değişken tanımlarken boşluk olmamalıdır ve sayı ile başlamamalıdır.
+- var yerine modern standartlarda genellikle let kullanılır.
+- Bir string'i sayıya dönüştürmek için Number() kullanılır.ParseInt vb..
+- Örneğin: let sayi = "20"; let sayiNumber = Number(sayi);
+- +, -, *, /, % gibi operatörler aritmetik işlemler için kullanılır.
+- a++ bir artırma operatörüdür.
+- =, +=, -= gibi atama operatörleri bulunur.
+- ===, ==, >=, <=, !==, != gibi operatörlerle karşılaştırma yapılır.
+- if, else, else if kullanarak koşullu ifadeler oluşturulabilir.
+- Mantıksal operatörler olarak && (ve) ve || (veya) kullanılır.
+- Backtick `Adım ${ad} Soyadım ${soyad} .`
+- charAt(), toLowerCase(), length, slice(), substring(), trim(), indexOf(), split() gibi string metodları bulunur.
+- Math.random() gibi birçok matematiksel fonksiyon bulunur. /Tarih işlemleri için Date() kullanılır.
+- toString(), join(), pop(), shift(), push(), unshift(), concat(), splice() gibi dizi metodları bulunur.
+- Nesne tanımlarken key value çiftleri kullanılır.
+- for, while, do-while gibi döngüler kullanılabilir.
+- classtan türetilmiş nesne üzeirnden cagırıyorsak method classa baglı olmadan cagırıyorsak fonksiyon   
+- Değişkenlerin erişim alanlarını belirler. var ile tanımlarsan her kapsamdan gözükür ! .
+- let ile tanımlanan değişkenler blok kapsamında kalır
+
+
