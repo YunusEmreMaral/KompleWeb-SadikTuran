@@ -17,6 +17,7 @@
 - https://awesome-blog-gozluklu.netlify.app/  => Basit frontend blog çalışması .
 - https://e-commerce-parts.netlify.app/  => Sadece birkaç itemden oluşan bir çalışma .
 - https://ecommerce-gozluklu.netlify.app/  => Frontendle oluşturulmuş  ecommerce tasarımı .
+- https://todoappgozluklu.netlify.app/  => ToDo App local storage ile javascript ağırlıklı bir site basit.
 
 ---
 
