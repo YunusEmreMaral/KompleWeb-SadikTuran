@@ -18,7 +18,7 @@
 - https://e-commerce-parts.netlify.app/  => Sadece birkaç itemden oluşan bir çalışma .
 - https://ecommerce-gozluklu.netlify.app/  => Frontendle oluşturulmuş  ecommerce tasarımı .
 - https://todoappgozluklu.netlify.app/  => ToDo App local storage ile javascript ağırlıklı bir site basit.
-
+- https://quizgozluklu.netlify.app/ => Basit Html -Css ve Javascript ile yapılmış bir quiz uygulaması .
 ---
 
 ## Html Içerik
