@@ -195,5 +195,43 @@ Renkler ve Yazı Stilleri
 - classtan türetilmiş nesne üzeirnden cagırıyorsak method classa baglı olmadan cagırıyorsak fonksiyon   
 - Değişkenlerin erişim alanlarını belirler. var ile tanımlarsan her kapsamdan gözükür ! .
 - let ile tanımlanan değişkenler blok kapsamında kalır
+- Fonksiyon tanımlama: function fonksiyonAdi() { ... }
+- Parametreli fonksiyon: function topla(a, b) { return a + b; }
+- Arrow Fonksiyonları (ES6): const topla = (a, b) => a + b;
+- İfade veya Gövde Kapsamı:
+- Tek satırlık ifadelerde süslü parantez gerekmez: const kare = x => x * x;
+- Blok gerektiren işlemler için { ... } kullanılır.
+- Scope (Kapsam): let blok kapsamlı, var ise fonksiyon kapsamlıdır.
+- Element Seçimi:document.getElementById("id")-document.querySelector(".class")-document.querySelectorAll("div")
+- İçeriği Değiştirme: element.textContent = "Yeni içerik";
+- CSS Değiştirme: element.style.color = "red";
+- Event Listener Ekleme: element.addEventListener("click", function);
+- Olay Türleri: click, mouseover, keyup, submit, vb.
+- function Soru(metin, cevap) { this.metin = metin; this.cevap = cevap; }
+- class Kisi { constructor(ad, soyad) { this.ad = ad; this.soyad = soyad; } }
+- Kalıtım (Inheritance): class Ogrenci extends Kisi { constructor(ad, soyad, sinif) { super(ad, soyad); this.sinif = sinif; } }
+- Arrow Functions: Kısa fonksiyon yazımı için => sembolü kullanılır.
+- Dizi elemanlarını yaymak için: const yeniDizi = [...eskiDizi, "yeni eleman"];
+- Dizi parçalama: const [birinci, ikinci] = dizi;
+- Nesne parçalama: const {ad, yas} = kisi;
+- Backtick (``) ile değişken içeren string oluşturulur:
+- new Map() ile anahtar-değer yapıları
+- new Set() ile benzersiz elemanlar dizisi oluşturulur.
+- Asenkron JavaScript
+- Callback Fonksiyonları: Bir iş tamamlandığında başka bir fonksiyonu çağırma.
+- Promise: Asenkron işlemleri yönetme, resolve ve reject durumları.
+- Async/Await:
+- Promise’leri daha okunabilir hale getirmek için kullanılır.
+- async fonksiyonu, await ifadesiyle bir işlemin bitmesini bekler.
+- Fetch API:
+- Veri çekmek için fetch(url) kullanılır.
+- fetch(url).then(response => response.json()).then(data => console.log(data));
+- TypeScript Tanımı: JavaScript’in tip güvenliği sağlayan bir üst kümesidir.
+- Tip Tanımlama: let sayi: number = 5; let isim: string = "Ali";
+- Interface ve Enum Kullanımı:
+- interface Kisi { ad: string; yas: number; }
+- enum Renk { Kirmizi, Mavi, Yesil }
+- Class ve Kalıtım:class Ogrenci implements Kisi { ad: string; yas: number; ogrenciNo: number; }
+
 
 
